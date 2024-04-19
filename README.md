@@ -1,77 +1,43 @@
-<h2 align="left">Hi 👋! My name is Jhonattan and I'm a Full Stack Developer, from Bogota, Colombia</h2>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/162920458?s=400&u=cd7435666e2223e1cc75a998d0a544a5d940bf8d&v=4"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
+<div>
+  <table>
+    <tr>
+      <td><img alt="Coder GIF" width=100 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /></td>
+      <td><h2>Hi, I'm Escorihuela Jhonattan!</h2></td>
+    </tr>
+  </table>
 </div>
 
-###
+<img align='right' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="230">
+<p><em>Telecommunications Enginner at <a href="http://www.uc.edu.ve">University of Carabobo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Full Stack at <a href="https://lab.priver.app/">PriverApp</a><img src="https://github.com/nirala96/nirala96/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="50"> 
+</em></p>
 
-<div align="left">
-  <a href="mailto:jhonattan1410@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jhonattanescorihuela/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jescorihuelaPriverApp&show_icons=true&theme=radical)
-
-</td><td valign="top" width="50%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jescorihuelaPriverApp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Linkedin: jhonattanescorihuela](https://img.shields.io/badge/-jhonattanescorihuela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonattanescorihuela/)](https://www.linkedin.com/in/jhonattanescorihuela/)
+[![GitHub JhonattanEscorihuela](https://img.shields.io/github/followers/JhonattanEscorihuela?label=follow&style=social)](https://github.com/JhonattanEscorihuela)
 
 
-</td></tr></table>  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<br/>  
+```javascript
+const Jhona = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, Java],
+  askMeAbout: ["web dev", "tech", "Project Management", "photography"],
+    technologies: {
+        frontEnd: {
+            js: [React, Redux, Node,  Styled-Components, HTML, CSS, TalwindCss],
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        devOps: [ "Docker🐳"],
+        databases: ["mongo", "MySql", "sqlite"],
+    },
+ challenge: "I am doing expecialization for Full Stack Developer Advanced"
+}
+```
 
-![Profile views counter](https://komarev.com/ghpvc/?username=jescorihuelaPriverApp&&style=flat-square)  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<br />
+---
 
-
-
-
-
+⭐️ From [@JhonattanEscorihuela](https://github.com/JhonattanEscorihuela)
