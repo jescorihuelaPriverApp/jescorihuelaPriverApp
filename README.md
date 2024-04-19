@@ -60,7 +60,8 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jescorihuelaPriverApp&hide_border=true&layout=compact" align="left" style="width: 100%" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jescorihuelaPriverApp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </td></tr></table>  
 
