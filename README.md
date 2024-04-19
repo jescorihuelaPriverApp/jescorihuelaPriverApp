@@ -20,11 +20,11 @@
 ```javascript
 const Jhona = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, Java],
+  code: ["Javascript", "Typescript", "Java"],
   askMeAbout: ["web dev", "tech", "Project Management", "photography"],
     technologies: {
         frontEnd: {
-            js: [React, Redux, Node,  Styled-Components, HTML, CSS, TalwindCss],
+            js: ["React", "Redux", "Node", "Styled-Components", "HTML", "CSS", "TalwindCss"],
         },
         backEnd: {
             js: ["node", "express"],
